@@ -1,0 +1,19 @@
+{
+  "name": "mas2it-packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mas2it/mas2it-packages.git"
+  },
+  "author": "mas2it",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mas2it/mas2it-packages/issues"
+  },
+  "homepage": "https://github.com/mas2it/mas2it-packages#readme"
+}

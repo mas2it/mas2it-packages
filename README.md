@@ -1,1 +1,1 @@
-# mas2it-packages
+# my-packages
